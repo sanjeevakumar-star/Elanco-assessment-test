@@ -1,0 +1,478 @@
+[
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "29/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Production",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "30/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Test",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "13/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "14/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Production",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "15/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Production",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "16/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Test",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "05/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Test",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "06/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Test",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "07/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Production",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "08/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "09/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "10/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Test",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "11/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Production",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "12/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "25/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "26/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "27/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "28/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "11",
+    "Cost": "9.8736",
+    "Date": "03/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Production",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "04/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "17/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "18/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "19/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "20/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "21/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Development",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "22/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Test",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "23/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Production",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  },
+  {
+    "ConsumedQuantity": "24",
+    "Cost": "21.5424",
+    "Date": "24/11/2020",
+    "InstanceId": "LA-f9c2ab0f-e037-4b5a-9fb9-3452e9c325b9",
+    "MeterCategory": "Logic Apps",
+    "ResourceGroup": "Macao",
+    "ResourceLocation": "EastUS",
+    "Tags": {
+      "app-name": "Macao",
+      "environment": "Test",
+      "business-unit": "SolutionOps"
+    },
+    "UnitOfMeasure": "1 Hour",
+    "Location": "US East",
+    "ServiceName": "Logic Apps"
+  }
+]
